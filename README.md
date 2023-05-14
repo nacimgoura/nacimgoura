@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Rust and Blockchain development.<br>💬 I’m looking for help with Exploring New Technologies.<br>📫 How to reach me: Email - nacim.goura.dev@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: My favourite dishe is ramen
+🔭 I’m currently working on my Skills.<br>🌱 I’m mainly Golang developer but I'm currently learning more about Rust and Blockchain development.<br>💬 I’m looking for help with Exploring New Technologies.<br>📫 How to reach me: Email - nacim.goura.dev@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: My favourite dishe is ramen
 
 
 ## 🌐 Socials:
@@ -20,9 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nacimgoura&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nacimgoura&icon=0&color=0)](https://visitcount.itsvg.in)
