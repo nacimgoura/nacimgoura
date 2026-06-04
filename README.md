@@ -6,7 +6,7 @@ Backend-focused developer with a passion for Go, distributed systems, and explor
 - 🌱 Learning Rust and Blockchain / Web3 development
 - 🤖 Using AI-assisted vibe coding to ship personal projects faster
 - 💬 Interested in AI, decentralized systems, and new tech
-- 📫 Reach me at **nacim.goura.dev@gmail.com**
+- 📫 Reach me at **nacim.goura@gmail.com**
 - 💚 I love photography and hiking
 - ⚡ Fun fact: My favourite dish is ramen
 
